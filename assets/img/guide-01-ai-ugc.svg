@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgG1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#082412"/>
+      <stop offset="60%" stop-color="#0F3D1E"/>
+      <stop offset="100%" stop-color="#144624"/>
+    </linearGradient>
+    <linearGradient id="spine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.3"/>
+      <stop offset="8%" stop-color="#000000" stop-opacity="0.25"/>
+      <stop offset="18%" stop-color="#FFFFFF" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="500" rx="20" fill="url(#bgG1)" stroke="#C8F169" stroke-width="2"/>
+  <rect width="360" height="500" rx="20" fill="url(#spine)"/>
+  
+  <!-- Subtle Grid Pattern -->
+  <g stroke="#C8F169" stroke-opacity="0.12" stroke-width="1">
+    <line x1="30" y1="0" x2="30" y2="500"/>
+    <line x1="330" y1="0" x2="330" y2="500"/>
+    <line x1="0" y1="380" x2="360" y2="380"/>
+  </g>
+
+  <!-- Top Badges -->
+  <rect x="25" y="25" width="80" height="26" rx="6" fill="#C8F169"/>
+  <text x="65" y="42" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="11" font-weight="900" fill="#082412" text-anchor="middle">GUIDE 01</text>
+  
+  <rect x="240" y="25" width="95" height="26" rx="6" fill="#082412" stroke="#C8F169" stroke-width="1.2"/>
+  <text x="287" y="42" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="10.5" font-weight="700" fill="#EBF8CF" text-anchor="middle">FORMAT: PDF</text>
+
+  <!-- Central Graphic / Waveform & Camera Eye -->
+  <g transform="translate(180, 160)">
+    <circle cx="0" cy="0" r="55" fill="#144624" fill-opacity="0.6" stroke="#C8F169" stroke-width="2"/>
+    <circle cx="0" cy="0" r="38" fill="#082412" stroke="#C8F169" stroke-width="1.5"/>
+    <rect x="-24" y="-16" width="48" height="32" rx="6" fill="#C8F169"/>
+    <circle cx="0" cy="0" r="7" fill="#082412"/>
+    <path d="M-40 0h12 M28 0h12" stroke="#C8F169" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Title Area -->
+  <text x="28" y="260" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="24" font-weight="900" fill="#FFFFFF">AI UGC Ads &amp;</text>
+  <text x="28" y="292" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="24" font-weight="900" fill="#C8F169">Agency Blueprint</text>
+  <text x="28" y="322" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="11" font-weight="600" fill="#D9F99D">Creative Concepts, AI Hooks &amp; Client Retainers</text>
+
+  <rect x="28" y="340" width="304" height="1" fill="#C8F169" fill-opacity="0.3"/>
+
+  <!-- Chapters summary -->
+  <text x="28" y="365" font-family="'Inter', sans-serif" font-size="11" fill="#E2E8F0">✓ 3-Second Viral Hook Matrix &amp; Scripts</text>
+  <text x="28" y="388" font-family="'Inter', sans-serif" font-size="11" fill="#E2E8F0">✓ Batch AI Video Rendering SOP</text>
+  <text x="28" y="411" font-family="'Inter', sans-serif" font-size="11" fill="#E2E8F0">✓ E-commerce Brand Outreach &amp; Pitch SOP</text>
+
+  <!-- Bottom Brand Footprint -->
+  <rect x="25" y="440" width="310" height="36" rx="8" fill="#082412" stroke="#C8F169" stroke-width="1"/>
+  <text x="180" y="463" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="11" font-weight="800" fill="#C8F169" letter-spacing="1.5" text-anchor="middle">ALFA MEDIA DIGITAL STORE</text>
+</svg>

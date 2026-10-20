@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" width="400" height="520">
+  <defs>
+    <linearGradient id="p1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="520" rx="16" fill="url(#p1)" stroke="#e2e8f0" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="30" y="30" width="340" height="40" rx="8" fill="#0F3D1E"/>
+  <text x="50" y="55" font-family="sans-serif" font-size="12" font-weight="bold" fill="#C8F169">GUIDE 01 · SAMPLE WORKFLOW</text>
+  
+  <!-- Content lines -->
+  <text x="30" y="105" font-family="sans-serif" font-size="18" font-weight="bold" fill="#0F3D1E">AI UGC Ad Generation Framework</text>
+  <text x="30" y="125" font-family="sans-serif" font-size="11" fill="#64748b">Step-by-step prompt templates and creator outreach scripts</text>
+  
+  <rect x="30" y="145" width="340" height="110" rx="10" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
+  <text x="45" y="170" font-family="monospace" font-size="10" fill="#0F3D1E">PROMPT MATRIX [INPUT / HOOK / CTA]</text>
+  <line x1="45" y1="180" x2="355" y2="180" stroke="#cbd5e1"/>
+  <rect x="45" y="195" width="220" height="8" rx="4" fill="#94a3b8"/>
+  <rect x="45" y="210" width="280" height="8" rx="4" fill="#cbd5e1"/>
+  <rect x="45" y="225" width="160" height="8" rx="4" fill="#cbd5e1"/>
+
+  <!-- Checklist items -->
+  <text x="30" y="290" font-family="sans-serif" font-size="13" font-weight="bold" fill="#0F3D1E">Implementation Checklist:</text>
+  <g transform="translate(30, 305)">
+    <circle cx="8" cy="8" r="7" fill="#C8F169" stroke="#0F3D1E" stroke-width="1.5"/>
+    <text x="25" y="12" font-family="sans-serif" font-size="11" fill="#334155">Define target brand niche (D2C, SaaS, Coaching)</text>
+    <circle cx="8" cy="36" r="7" fill="#C8F169" stroke="#0F3D1E" stroke-width="1.5"/>
+    <text x="25" y="40" font-family="sans-serif" font-size="11" fill="#334155">Draft 3 hook variations with psychological curiosity</text>
+    <circle cx="8" cy="64" r="7" fill="#C8F169" stroke="#0F3D1E" stroke-width="1.5"/>
+    <text x="25" y="68" font-family="sans-serif" font-size="11" fill="#334155">Render avatars &amp; voiceover pacing checks</text>
+    <circle cx="8" cy="92" r="7" fill="#C8F169" stroke="#0F3D1E" stroke-width="1.5"/>
+    <text x="25" y="96" font-family="sans-serif" font-size="11" fill="#334155">Deliver draft variations with watermarked client link</text>
+  </g>
+
+  <!-- Footer Watermark -->
+  <line x1="30" y1="465" x2="370" y2="465" stroke="#e2e8f0"/>
+  <text x="30" y="485" font-family="sans-serif" font-size="10" fill="#94a3b8">Online Business Blueprint Bundle · Alfa Media</text>
+  <text x="370" y="485" font-family="sans-serif" font-size="10" fill="#94a3b8" text-anchor="end">Page 14</text>
+</svg>

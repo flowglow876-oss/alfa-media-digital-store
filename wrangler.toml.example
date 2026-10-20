@@ -1,0 +1,23 @@
+# EXAMPLE ONLY — intentionally NOT named wrangler.toml.
+# With this repository, Cloudflare Pages -> Git integration or Wrangler deploy is required
+# so the /functions API routes are deployed alongside dist/ static assets.
+# Bindings can be configured in the Cloudflare dashboard instead; if you use this file,
+# replace the placeholder database/namespace IDs with your actual IDs first.
+name = "alfa-media-digital-store"
+compatibility_date = "2026-10-01"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "alfa-store-db"
+database_id = "REPLACE_WITH_REAL_D1_ID"
+
+# Free storage option: use one KV entry for the ZIP. Keep the ZIP under 25 MiB.
+[[kv_namespaces]]
+binding = "BUNDLE_KV"
+id = "REPLACE_WITH_REAL_KV_NAMESPACE_ID"
+
+# Optional alternative: instead of KV, use private R2 (may require billing setup).
+# [[r2_buckets]]
+# binding = "BUNDLE_BUCKET"
+# bucket_name = "alfa-store-private-bundle"

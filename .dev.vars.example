@@ -1,0 +1,27 @@
+# Copy to .dev.vars for LOCAL testing only (wrangler pages dev). .dev.vars is git-ignored.
+# In Cloudflare Pages set these under Settings -> Variables and Secrets (mark secrets as "Secret").
+# Use PLACEHOLDERS here. Never commit real values.
+PHONEPE_ENV=sandbox
+PHONEPE_CLIENT_ID=YOUR_SANDBOX_CLIENT_ID
+PHONEPE_CLIENT_SECRET=YOUR_SANDBOX_CLIENT_SECRET
+PHONEPE_CLIENT_VERSION=1
+PHONEPE_WEBHOOK_USERNAME=choose_a_webhook_username
+PHONEPE_WEBHOOK_PASSWORD=choose_a_long_random_password
+DOWNLOAD_SIGNING_SECRET=generate_with_openssl_rand_hex_32
+SITE_URL=http://localhost:8788
+
+# OPTIONAL — email delivery via Resend (leave both unset to disable the "Email me the link" form)
+RESEND_API_KEY=YOUR_RESEND_API_KEY
+EMAIL_FROM=Alfa Media <orders@YOUR-VERIFIED-DOMAIN>
+
+# QR / SCREENSHOT MODE (PAYMENT_MODE: 'qr' in assets/js/config.js). PhonePe variables above are NOT needed in this mode.
+GEMINI_API_KEY=YOUR_GEMINI_API_KEY   # from aistudio.google.com/apikey
+# Optional: pin a model (default gemini-flash-latest = Google's current Flash model)
+# GEMINI_MODEL=gemini-flash-latest
+# Second, independent AI check runs in parallel (default model gemini-flash-lite-latest). Both must agree.
+# GEMINI_MODEL_2=gemini-flash-lite-latest
+# Set to 'off' to use a single AI read (if your Gemini free-tier rate limit is too tight)
+# GEMINI_DOUBLE_CHECK=on
+PAYEE_NAME=Manoj
+# Optional: if set and visible in the screenshot, the receiver UPI ID must match
+UPI_ID=

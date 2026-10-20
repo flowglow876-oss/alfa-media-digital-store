@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 780" width="100%" height="100%">
+  <defs>
+    <linearGradient id="prevBg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F8F9F5"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="780" rx="16" fill="url(#prevBg2)" stroke="#CBD5E1" stroke-width="1.5"/>
+
+  <!-- Top Document Header Bar -->
+  <rect x="0" y="0" width="600" height="72" rx="16" fill="#0F3D1E"/>
+  <rect x="0" y="56" width="600" height="16" fill="#0F3D1E"/>
+  <text x="32" y="38" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="12" font-weight="800" fill="#C8F169" letter-spacing="1">GUIDE 02 · LAUNCH FRAMEWORK</text>
+  <text x="32" y="56" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">Digital Product Offer &amp; UPI Checkout Funnel</text>
+  <text x="568" y="44" font-family="'Inter', sans-serif" font-size="11" font-weight="600" fill="#EBF8CF" text-anchor="end">PAGE 21 OF 42 (PDF)</text>
+
+  <!-- Funnel Visual Architecture -->
+  <g transform="translate(32, 95)">
+    <rect width="536" height="195" rx="12" fill="#F1F4EB" stroke="#C8F169" stroke-width="1"/>
+    <text x="20" y="28" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="12" font-weight="800" fill="#0F3D1E">3-STAGE DIGITAL PRODUCT SALES ARCHITECTURE</text>
+    
+    <!-- Stage 1 -->
+    <rect x="20" y="46" width="156" height="125" rx="8" fill="#FFFFFF" stroke="#0F3D1E" stroke-width="1.5"/>
+    <text x="32" y="70" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="11" font-weight="800" fill="#0F3D1E">STAGE 1: DISCOVERY</text>
+    <text x="32" y="92" font-family="'Inter', sans-serif" font-size="9.5" fill="#475569">● Search-intent organic post</text>
+    <text x="32" y="110" font-family="'Inter', sans-serif" font-size="9.5" fill="#475569">● Short breakdown thread</text>
+    <text x="32" y="128" font-family="'Inter', sans-serif" font-size="9.5" fill="#475569">● Direct link in bio / DM</text>
+    <rect x="30" y="142" width="136" height="18" rx="4" fill="#EBF8CF"/>
+    <text x="98" y="155" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="9" font-weight="700" fill="#0F3D1E" text-anchor="middle">ZERO AD SPEND</text>
+
+    <!-- Stage 2 -->
+    <rect x="190" y="46" width="156" height="125" rx="8" fill="#FFFFFF" stroke="#0F3D1E" stroke-width="1.5"/>
+    <text x="202" y="70" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="11" font-weight="800" fill="#0F3D1E">STAGE 2: CONVERT</text>
+    <text x="202" y="92" font-family="'Inter', sans-serif" font-size="9.5" fill="#475569">● Minimal 1-page landing site</text>
+    <text x="202" y="110" font-family="'Inter', sans-serif" font-size="9.5" fill="#475569">● Clear outcomes checklist</text>
+    <text x="202" y="128" font-family="'Inter', sans-serif" font-size="9.5" fill="#475569">● UPI QR / Intent Trigger</text>
+    <rect x="200" y="142" width="136" height="18" rx="4" fill="#EBF8CF"/>
+    <text x="268" y="155" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="9" font-weight="700" fill="#0F3D1E" text-anchor="middle">&lt; 3 CLICKS CHECKOUT</text>
+
+    <!-- Stage 3 -->
+    <rect x="360" y="46" width="156" height="125" rx="8" fill="#FFFFFF" stroke="#0F3D1E" stroke-width="1.5"/>
+    <text x="372" y="70" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="11" font-weight="800" fill="#0F3D1E">STAGE 3: DELIVER</text>
+    <text x="372" y="92" font-family="'Inter', sans-serif" font-size="9.5" fill="#475569">● Server webhook validation</text>
+    <text x="372" y="110" font-family="'Inter', sans-serif" font-size="9.5" fill="#475569">● Signed secure PDF link</text>
+    <text x="372" y="128" font-family="'Inter', sans-serif" font-size="9.5" fill="#475569">● Auto WhatsApp receipt</text>
+    <rect x="370" y="142" width="136" height="18" rx="4" fill="#C8F169"/>
+    <text x="438" y="155" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="9" font-weight="800" fill="#082412" text-anchor="middle">100% AUTOMATED</text>
+  </g>
+
+  <!-- Step Breakdown Card -->
+  <g transform="translate(32, 310)">
+    <rect width="536" height="420" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+    <text x="24" y="36" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="14" font-weight="800" fill="#0F3D1E">EXECUTION CHECKLIST: DAY 1 TO DAY 3</text>
+    <line x1="24" y1="48" x2="512" y2="48" stroke="#E2E8F0" stroke-width="1"/>
+
+    <g transform="translate(24, 70)">
+      <circle cx="12" cy="12" r="12" fill="#C8F169"/>
+      <text x="12" y="16" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="800" fill="#082412" text-anchor="middle">1</text>
+      <text x="36" y="12" font-family="'Plus Jakarta Sans', sans-serif" font-size="11.5" font-weight="700" fill="#0F3D1E">Extract Actionable SOPs</text>
+      <text x="36" y="28" font-family="'Inter', sans-serif" font-size="10" fill="#64748B">Synthesize existing expertise or frameworks into structured 20–40 page PDF checklists.</text>
+    </g>
+
+    <g transform="translate(24, 130)">
+      <circle cx="12" cy="12" r="12" fill="#C8F169"/>
+      <text x="12" y="16" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="800" fill="#082412" text-anchor="middle">2</text>
+      <text x="36" y="12" font-family="'Plus Jakarta Sans', sans-serif" font-size="11.5" font-weight="700" fill="#0F3D1E">Connect Gateway &amp; Webhook</text>
+      <text x="36" y="28" font-family="'Inter', sans-serif" font-size="10" fill="#64748B">Bind Cashfree / Razorpay webhook to grant direct PDF URL once status is PAID.</text>
+    </g>
+
+    <g transform="translate(24, 190)">
+      <circle cx="12" cy="12" r="12" fill="#C8F169"/>
+      <text x="12" y="16" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="800" fill="#082412" text-anchor="middle">3</text>
+      <text x="36" y="12" font-family="'Plus Jakarta Sans', sans-serif" font-size="11.5" font-weight="700" fill="#0F3D1E">Deploy Zero-Cost Static Storefront</text>
+      <text x="36" y="28" font-family="'Inter', sans-serif" font-size="10" fill="#64748B">Host via Cloudflare Pages or Vercel for instantaneous load times and zero hosting fee.</text>
+    </g>
+
+    <!-- Watermark Stamp -->
+    <g transform="translate(370, 275) rotate(-10)">
+      <rect width="130" height="38" rx="8" fill="none" stroke="#C8F169" stroke-width="2"/>
+      <text x="65" y="18" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="900" fill="#0F3D1E" text-anchor="middle" letter-spacing="1">SAMPLE PREVIEW</text>
+      <text x="65" y="30" font-family="'Inter', sans-serif" font-size="8" font-weight="700" fill="#617366" text-anchor="middle">FULL GUIDE IN BUNDLE</text>
+    </g>
+  </g>
+
+  <!-- Footer Watermark -->
+  <text x="300" y="755" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="10" font-weight="700" fill="#94A3B8" text-anchor="middle">
+    ONLINE BUSINESS BLUEPRINT BUNDLE · ALFA MEDIA · ALL RIGHTS RESERVED
+  </text>
+</svg>

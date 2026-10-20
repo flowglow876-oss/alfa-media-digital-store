@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 780" width="100%" height="100%">
+  <defs>
+    <linearGradient id="prevBg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F8F9F5"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="780" rx="16" fill="url(#prevBg3)" stroke="#CBD5E1" stroke-width="1.5"/>
+
+  <!-- Top Document Header Bar -->
+  <rect x="0" y="0" width="600" height="72" rx="16" fill="#0F3D1E"/>
+  <rect x="0" y="56" width="600" height="16" fill="#0F3D1E"/>
+  <text x="32" y="38" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="12" font-weight="800" fill="#C8F169" letter-spacing="1">GUIDE 03 · DUE DILIGENCE</text>
+  <text x="32" y="56" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">Website Due Diligence &amp; Valuation Formula</text>
+  <text x="568" y="44" font-family="'Inter', sans-serif" font-size="11" font-weight="600" fill="#EBF8CF" text-anchor="end">PAGE 19 OF 36 (PDF)</text>
+
+  <!-- Valuation Table -->
+  <g transform="translate(32, 95)">
+    <rect width="536" height="190" rx="12" fill="#F1F4EB" stroke="#C8F169" stroke-width="1"/>
+    <text x="20" y="28" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="12" font-weight="800" fill="#0F3D1E">STANDARD VALUATION MULTIPLES BENCHMARK</text>
+
+    <!-- Table Header -->
+    <rect x="16" y="44" width="504" height="28" rx="4" fill="#EBF8CF"/>
+    <text x="26" y="62" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="10.5" font-weight="700" fill="#0F3D1E">ASSET TYPE</text>
+    <text x="170" y="62" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="10.5" font-weight="700" fill="#0F3D1E">MONTHLY NET PROFIT</text>
+    <text x="360" y="62" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="10.5" font-weight="700" fill="#0F3D1E">SALE MULTIPLE</text>
+
+    <!-- Row 1 -->
+    <text x="26" y="94" font-family="'Inter', sans-serif" font-size="10" font-weight="600" fill="#1E293B">Lead Gen / Local Site</text>
+    <text x="170" y="94" font-family="'Inter', sans-serif" font-size="10" fill="#334155">₹15,000 – ₹40,000 / mo</text>
+    <text x="360" y="94" font-family="'Inter', sans-serif" font-size="10" font-weight="700" fill="#0F3D1E">22x – 30x Monthly</text>
+
+    <!-- Row 2 -->
+    <text x="26" y="122" font-family="'Inter', sans-serif" font-size="10" font-weight="600" fill="#1E293B">Affiliate / Content Niche</text>
+    <text x="170" y="122" font-family="'Inter', sans-serif" font-size="10" fill="#334155">₹30,000 – ₹1,20,000 / mo</text>
+    <text x="360" y="122" font-family="'Inter', sans-serif" font-size="10" font-weight="700" fill="#0F3D1E">28x – 36x Monthly</text>
+
+    <!-- Row 3 -->
+    <text x="26" y="150" font-family="'Inter', sans-serif" font-size="10" font-weight="600" fill="#1E293B">SaaS / Micro Tool</text>
+    <text x="170" y="150" font-family="'Inter', sans-serif" font-size="10" fill="#334155">₹50,000 – ₹3,00,000 / mo</text>
+    <text x="360" y="150" font-family="'Inter', sans-serif" font-size="10" font-weight="700" fill="#0F3D1E">35x – 48x Monthly</text>
+  </g>
+
+  <!-- Formula Box -->
+  <g transform="translate(32, 305)">
+    <rect width="536" height="425" rx="12" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+    <text x="24" y="36" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="14" font-weight="800" fill="#0F3D1E">THE 4-POINT DUE DILIGENCE AUDIT SCORECARD</text>
+    <line x1="24" y1="48" x2="512" y2="48" stroke="#E2E8F0" stroke-width="1"/>
+
+    <!-- Point 1 -->
+    <g transform="translate(24, 70)">
+      <rect x="0" y="0" width="488" height="68" rx="8" fill="#F8F9F5" stroke="#E2E8F0" stroke-width="1"/>
+      <circle cx="20" cy="20" r="10" fill="#C8F169"/>
+      <text x="20" y="24" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5" font-weight="800" fill="#082412" text-anchor="middle">✓</text>
+      <text x="38" y="22" font-family="'Plus Jakarta Sans', sans-serif" font-size="11.5" font-weight="700" fill="#0F3D1E">1. Organic Traffic Stability (Search Console)</text>
+      <text x="38" y="42" font-family="'Inter', sans-serif" font-size="10" fill="#64748B">Verify at least 6 consecutive months without severe Google core algorithm declines.</text>
+    </g>
+
+    <!-- Point 2 -->
+    <g transform="translate(24, 150)">
+      <rect x="0" y="0" width="488" height="68" rx="8" fill="#F8F9F5" stroke="#E2E8F0" stroke-width="1"/>
+      <circle cx="20" cy="20" r="10" fill="#C8F169"/>
+      <text x="20" y="24" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5" font-weight="800" fill="#082412" text-anchor="middle">✓</text>
+      <text x="38" y="22" font-family="'Plus Jakarta Sans', sans-serif" font-size="11.5" font-weight="700" fill="#0F3D1E">2. Net Margin Verification</text>
+      <text x="38" y="42" font-family="'Inter', sans-serif" font-size="10" fill="#64748B">Subtract API, server hosting, and content production costs to calculate clean EBITDA.</text>
+    </g>
+
+    <!-- Point 3 -->
+    <g transform="translate(24, 230)">
+      <rect x="0" y="0" width="488" height="68" rx="8" fill="#F8F9F5" stroke="#E2E8F0" stroke-width="1"/>
+      <circle cx="20" cy="20" r="10" fill="#C8F169"/>
+      <text x="20" y="24" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5" font-weight="800" fill="#082412" text-anchor="middle">✓</text>
+      <text x="38" y="22" font-family="'Plus Jakarta Sans', sans-serif" font-size="11.5" font-weight="700" fill="#0F3D1E">3. Backlink Profile Audit</text>
+      <text x="38" y="42" font-family="'Inter', sans-serif" font-size="10" fill="#64748B">Ensure no toxic PBN domains or spam redirects risk the site's domain rating.</text>
+    </g>
+
+    <!-- Point 4 -->
+    <g transform="translate(24, 310)">
+      <rect x="0" y="0" width="488" height="68" rx="8" fill="#F8F9F5" stroke="#E2E8F0" stroke-width="1"/>
+      <circle cx="20" cy="20" r="10" fill="#C8F169"/>
+      <text x="20" y="24" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5" font-weight="800" fill="#082412" text-anchor="middle">✓</text>
+      <text x="38" y="22" font-family="'Plus Jakarta Sans', sans-serif" font-size="11.5" font-weight="700" fill="#0F3D1E">4. Escrow &amp; Asset Handover SOP</text>
+      <text x="38" y="42" font-family="'Inter', sans-serif" font-size="10" fill="#64748B">Standard contract template for domain, code repository, and email transfer.</text>
+    </g>
+  </g>
+
+  <!-- Footer Watermark -->
+  <text x="300" y="755" font-family="'Plus Jakarta Sans', 'Inter', sans-serif" font-size="10" font-weight="700" fill="#94A3B8" text-anchor="middle">
+    ONLINE BUSINESS BLUEPRINT BUNDLE · ALFA MEDIA · ALL RIGHTS RESERVED
+  </text>
+</svg>

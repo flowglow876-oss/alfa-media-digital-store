@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" width="400" height="520">
+  <defs>
+    <linearGradient id="p4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="520" rx="16" fill="url(#p4)" stroke="#e2e8f0" stroke-width="2"/>
+  <rect x="30" y="30" width="340" height="40" rx="8" fill="#0F3D1E"/>
+  <text x="50" y="55" font-family="sans-serif" font-size="12" font-weight="bold" fill="#C8F169">GUIDE 04 · CLIPPING OPS</text>
+  
+  <text x="30" y="105" font-family="sans-serif" font-size="18" font-weight="bold" fill="#0F3D1E">Viral Clipping Production Pipeline</text>
+  <text x="30" y="125" font-family="sans-serif" font-size="11" fill="#64748b">Batch editing 10 shorts from 1 hour-long podcast interview</text>
+  
+  <g transform="translate(30, 150)">
+    <rect width="105" height="100" rx="8" fill="#f1f5f9" stroke="#cbd5e1"/>
+    <text x="12" y="35" font-family="sans-serif" font-size="10" font-weight="bold" fill="#0F3D1E">01. INGEST</text>
+    <text x="12" y="60" font-family="sans-serif" font-size="9" fill="#64748b">Transcript run,</text>
+    <text x="12" y="75" font-family="sans-serif" font-size="9" fill="#64748b">AI hook tags.</text>
+
+    <rect x="117" y="0" width="105" height="100" rx="8" fill="#f1f5f9" stroke="#cbd5e1"/>
+    <text x="129" y="35" font-family="sans-serif" font-size="10" font-weight="bold" fill="#0F3D1E">02. REFINE</text>
+    <text x="129" y="60" font-family="sans-serif" font-size="9" fill="#64748b">Dynamic subs,</text>
+    <text x="129" y="75" font-family="sans-serif" font-size="9" fill="#64748b">B-roll punch-in.</text>
+
+    <rect x="234" y="0" width="105" height="100" rx="8" fill="#f1f5f9" stroke="#cbd5e1"/>
+    <text x="246" y="35" font-family="sans-serif" font-size="10" font-weight="bold" fill="#0F3D1E">03. DELIVER</text>
+    <text x="246" y="60" font-family="sans-serif" font-size="9" fill="#64748b">Client portal,</text>
+    <text x="246" y="75" font-family="sans-serif" font-size="9" fill="#64748b">Multi-platform.</text>
+  </g>
+  
+  <line x1="30" y1="465" x2="370" y2="465" stroke="#e2e8f0"/>
+  <text x="30" y="485" font-family="sans-serif" font-size="10" fill="#94a3b8">Online Business Blueprint Bundle · Alfa Media</text>
+  <text x="370" y="485" font-family="sans-serif" font-size="10" fill="#94a3b8" text-anchor="end">Page 35</text>
+</svg>
