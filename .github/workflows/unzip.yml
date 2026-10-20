@@ -1,0 +1,18 @@
+name: unzip-site
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  unzip:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          unzip -q *.zip
+          cp -a store/. .
+          rm -rf store *.zip
+          git config user.name "bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          git commit -m "Add site files"
+          git push
